@@ -1,0 +1,45 @@
+body
+{
+    background-color: black;
+}
+h5
+{
+color: white;
+text-align: center;
+
+}
+.contacto
+{
+    color: white;
+
+}
+
+.enviar
+{
+    color: white;
+    background-color: #18BFEC;
+    text-align: right !important;
+    margin: 5px,5px,5px,5px;
+}
+.quienesSomos
+{
+    color: wheat;
+}
+.card
+{
+    margin: 15px 10px 25px 5px !important;
+    background-color: #18BFEC;
+    padding: 0%;
+    color: white;
+}
+footer
+{
+    background-color: #18BFEC;
+}
+
+
+
+
+
+
+
